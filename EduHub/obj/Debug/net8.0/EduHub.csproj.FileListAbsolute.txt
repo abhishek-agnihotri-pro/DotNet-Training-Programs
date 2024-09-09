@@ -1,0 +1,14 @@
+D:\.NetTrainings\EduHub\bin\Debug\net8.0\EduHub.exe
+D:\.NetTrainings\EduHub\bin\Debug\net8.0\EduHub.deps.json
+D:\.NetTrainings\EduHub\bin\Debug\net8.0\EduHub.runtimeconfig.json
+D:\.NetTrainings\EduHub\bin\Debug\net8.0\EduHub.dll
+D:\.NetTrainings\EduHub\bin\Debug\net8.0\EduHub.pdb
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.AssemblyInfoInputs.cache
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.AssemblyInfo.cs
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.dll
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\refint\EduHub.dll
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.pdb
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\EduHub.genruntimeconfig.cache
+D:\.NetTrainings\EduHub\obj\Debug\net8.0\ref\EduHub.dll

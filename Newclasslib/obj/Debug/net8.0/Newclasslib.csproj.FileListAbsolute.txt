@@ -1,0 +1,11 @@
+D:\.NetTrainings\Newclasslib\bin\Debug\net8.0\Newclasslib.deps.json
+D:\.NetTrainings\Newclasslib\bin\Debug\net8.0\Newclasslib.dll
+D:\.NetTrainings\Newclasslib\bin\Debug\net8.0\Newclasslib.pdb
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.AssemblyInfoInputs.cache
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.AssemblyInfo.cs
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.dll
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\refint\Newclasslib.dll
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\Newclasslib.pdb
+D:\.NetTrainings\Newclasslib\obj\Debug\net8.0\ref\Newclasslib.dll

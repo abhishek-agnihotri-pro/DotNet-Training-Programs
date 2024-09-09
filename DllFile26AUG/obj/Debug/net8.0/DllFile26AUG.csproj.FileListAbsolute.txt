@@ -1,0 +1,11 @@
+D:\.NetTrainings\DllFile26AUG\bin\Debug\net8.0\DllFile26AUG.deps.json
+D:\.NetTrainings\DllFile26AUG\bin\Debug\net8.0\DllFile26AUG.dll
+D:\.NetTrainings\DllFile26AUG\bin\Debug\net8.0\DllFile26AUG.pdb
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.AssemblyInfoInputs.cache
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.AssemblyInfo.cs
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.dll
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\refint\DllFile26AUG.dll
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\DllFile26AUG.pdb
+D:\.NetTrainings\DllFile26AUG\obj\Debug\net8.0\ref\DllFile26AUG.dll

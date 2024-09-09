@@ -1,0 +1,14 @@
+D:\.NetTrainings\PartialClassMethod\bin\Debug\net8.0\PartialClassMethod.exe
+D:\.NetTrainings\PartialClassMethod\bin\Debug\net8.0\PartialClassMethod.deps.json
+D:\.NetTrainings\PartialClassMethod\bin\Debug\net8.0\PartialClassMethod.runtimeconfig.json
+D:\.NetTrainings\PartialClassMethod\bin\Debug\net8.0\PartialClassMethod.dll
+D:\.NetTrainings\PartialClassMethod\bin\Debug\net8.0\PartialClassMethod.pdb
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.AssemblyInfoInputs.cache
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.AssemblyInfo.cs
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.dll
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\refint\PartialClassMethod.dll
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.pdb
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\PartialClassMethod.genruntimeconfig.cache
+D:\.NetTrainings\PartialClassMethod\obj\Debug\net8.0\ref\PartialClassMethod.dll

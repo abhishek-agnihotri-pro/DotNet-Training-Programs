@@ -1,0 +1,14 @@
+D:\.NetTrainings\ExceptionHandlingConsoleApp\bin\Debug\net8.0\ExceptionHandlingConsoleApp.exe
+D:\.NetTrainings\ExceptionHandlingConsoleApp\bin\Debug\net8.0\ExceptionHandlingConsoleApp.deps.json
+D:\.NetTrainings\ExceptionHandlingConsoleApp\bin\Debug\net8.0\ExceptionHandlingConsoleApp.runtimeconfig.json
+D:\.NetTrainings\ExceptionHandlingConsoleApp\bin\Debug\net8.0\ExceptionHandlingConsoleApp.dll
+D:\.NetTrainings\ExceptionHandlingConsoleApp\bin\Debug\net8.0\ExceptionHandlingConsoleApp.pdb
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.AssemblyInfoInputs.cache
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.AssemblyInfo.cs
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.dll
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\refint\ExceptionHandlingConsoleApp.dll
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.pdb
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ExceptionHandlingConsoleApp.genruntimeconfig.cache
+D:\.NetTrainings\ExceptionHandlingConsoleApp\obj\Debug\net8.0\ref\ExceptionHandlingConsoleApp.dll

@@ -1,0 +1,14 @@
+D:\.NetTrainings\IEnumerable\bin\Debug\net8.0\IEnumerable.exe
+D:\.NetTrainings\IEnumerable\bin\Debug\net8.0\IEnumerable.deps.json
+D:\.NetTrainings\IEnumerable\bin\Debug\net8.0\IEnumerable.runtimeconfig.json
+D:\.NetTrainings\IEnumerable\bin\Debug\net8.0\IEnumerable.dll
+D:\.NetTrainings\IEnumerable\bin\Debug\net8.0\IEnumerable.pdb
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfoInputs.cache
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfo.cs
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.dll
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\refint\IEnumerable.dll
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.pdb
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\IEnumerable.genruntimeconfig.cache
+D:\.NetTrainings\IEnumerable\obj\Debug\net8.0\ref\IEnumerable.dll

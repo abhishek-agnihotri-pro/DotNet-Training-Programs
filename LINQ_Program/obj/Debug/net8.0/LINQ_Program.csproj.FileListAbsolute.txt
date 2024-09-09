@@ -1,0 +1,14 @@
+D:\.NetTrainings\LINQ_Program\bin\Debug\net8.0\LINQ_Program.exe
+D:\.NetTrainings\LINQ_Program\bin\Debug\net8.0\LINQ_Program.deps.json
+D:\.NetTrainings\LINQ_Program\bin\Debug\net8.0\LINQ_Program.runtimeconfig.json
+D:\.NetTrainings\LINQ_Program\bin\Debug\net8.0\LINQ_Program.dll
+D:\.NetTrainings\LINQ_Program\bin\Debug\net8.0\LINQ_Program.pdb
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.AssemblyInfoInputs.cache
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.AssemblyInfo.cs
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.dll
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\refint\LINQ_Program.dll
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.pdb
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\LINQ_Program.genruntimeconfig.cache
+D:\.NetTrainings\LINQ_Program\obj\Debug\net8.0\ref\LINQ_Program.dll

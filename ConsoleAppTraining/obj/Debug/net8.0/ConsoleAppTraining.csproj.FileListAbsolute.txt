@@ -1,0 +1,14 @@
+D:\.NetTrainings\ConsoleAppTraining\bin\Debug\net8.0\ConsoleAppTraining.exe
+D:\.NetTrainings\ConsoleAppTraining\bin\Debug\net8.0\ConsoleAppTraining.deps.json
+D:\.NetTrainings\ConsoleAppTraining\bin\Debug\net8.0\ConsoleAppTraining.runtimeconfig.json
+D:\.NetTrainings\ConsoleAppTraining\bin\Debug\net8.0\ConsoleAppTraining.dll
+D:\.NetTrainings\ConsoleAppTraining\bin\Debug\net8.0\ConsoleAppTraining.pdb
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.AssemblyInfoInputs.cache
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.AssemblyInfo.cs
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.dll
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\refint\ConsoleAppTraining.dll
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.pdb
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ConsoleAppTraining.genruntimeconfig.cache
+D:\.NetTrainings\ConsoleAppTraining\obj\Debug\net8.0\ref\ConsoleAppTraining.dll

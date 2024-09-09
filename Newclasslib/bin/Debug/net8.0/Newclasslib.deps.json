@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Newclasslib/1.0.0": {
+        "runtime": {
+          "Newclasslib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newclasslib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

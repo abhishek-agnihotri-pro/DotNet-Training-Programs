@@ -1,0 +1,14 @@
+D:\.NetTrainings\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\.NetTrainings\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\.NetTrainings\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\.NetTrainings\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\.NetTrainings\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\.NetTrainings\Delegate\obj\Debug\net8.0\ref\Delegate.dll

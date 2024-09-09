@@ -1,0 +1,14 @@
+D:\.NetTrainings\DelegateForEventHandling\bin\Debug\net8.0\DelegateForEventHandling.exe
+D:\.NetTrainings\DelegateForEventHandling\bin\Debug\net8.0\DelegateForEventHandling.deps.json
+D:\.NetTrainings\DelegateForEventHandling\bin\Debug\net8.0\DelegateForEventHandling.runtimeconfig.json
+D:\.NetTrainings\DelegateForEventHandling\bin\Debug\net8.0\DelegateForEventHandling.dll
+D:\.NetTrainings\DelegateForEventHandling\bin\Debug\net8.0\DelegateForEventHandling.pdb
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.AssemblyInfoInputs.cache
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.AssemblyInfo.cs
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.dll
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\refint\DelegateForEventHandling.dll
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.pdb
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\DelegateForEventHandling.genruntimeconfig.cache
+D:\.NetTrainings\DelegateForEventHandling\obj\Debug\net8.0\ref\DelegateForEventHandling.dll

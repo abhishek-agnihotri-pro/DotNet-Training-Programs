@@ -1,0 +1,17 @@
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\OOPs.exe
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\OOPs.deps.json
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\OOPs.runtimeconfig.json
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\OOPs.dll
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\OOPs.pdb
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfoInputs.cache
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfo.cs
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.dll
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\refint\OOPs.dll
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.pdb
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.genruntimeconfig.cache
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\ref\OOPs.dll
+D:\.NetTrainings\OOPs\bin\Debug\net8.0\Newclasslib.dll
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.csproj.AssemblyReference.cache
+D:\.NetTrainings\OOPs\obj\Debug\net8.0\OOPs.csproj.Up2Date

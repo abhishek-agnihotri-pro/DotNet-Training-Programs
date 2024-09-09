@@ -1,0 +1,14 @@
+D:\.NetTrainings\Indexer_Example_Student\bin\Debug\net8.0\Indexer_Example_Student.exe
+D:\.NetTrainings\Indexer_Example_Student\bin\Debug\net8.0\Indexer_Example_Student.deps.json
+D:\.NetTrainings\Indexer_Example_Student\bin\Debug\net8.0\Indexer_Example_Student.runtimeconfig.json
+D:\.NetTrainings\Indexer_Example_Student\bin\Debug\net8.0\Indexer_Example_Student.dll
+D:\.NetTrainings\Indexer_Example_Student\bin\Debug\net8.0\Indexer_Example_Student.pdb
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.AssemblyInfoInputs.cache
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.AssemblyInfo.cs
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.dll
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\refint\Indexer_Example_Student.dll
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.pdb
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\Indexer_Example_Student.genruntimeconfig.cache
+D:\.NetTrainings\Indexer_Example_Student\obj\Debug\net8.0\ref\Indexer_Example_Student.dll
