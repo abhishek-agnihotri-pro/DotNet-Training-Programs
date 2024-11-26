@@ -1,0 +1,77 @@
+@model IEnumerable<MVC_EDUHUB.ViewModel.MaterialViewModel>
+
+@{
+    ViewData["Title"] = "List";
+    Layout="~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+@* <h1>List</h1> *@
+
+<p>
+    <a asp-action="AddMaterial" asp-controller="Material" asp-route-id="@TempData["CourseId"]">Add New Material</a>
+    @{TempData.Keep("CourseId");}
+</p>
+<h3>
+    Material for Course : <b> @Model.FirstOrDefault()?.CourseTitle </b>
+</h3>
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>
+                @Html.DisplayNameFor(model => model.MaterialId)
+            </th> *@
+            @* <th>
+                @Html.DisplayNameFor(model => model.CourseTitle)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.URL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UploadDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContentType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.MaterialId)
+            </td> *@
+            @* <td>
+                @Html.DisplayFor(modelItem => item.CourseTitle)
+            </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a href="@item.URL" target="_blank">@Html.DisplayFor(modelItem => item.URL)</a>
+                
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UploadDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContentType)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.MaterialId  }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.MaterialId }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.MaterialId  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

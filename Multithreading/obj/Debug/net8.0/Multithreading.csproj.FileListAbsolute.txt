@@ -1,0 +1,15 @@
+D:\.NetTrainings\Multithreading\bin\Debug\net8.0\Multithreading.exe
+D:\.NetTrainings\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+D:\.NetTrainings\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+D:\.NetTrainings\Multithreading\bin\Debug\net8.0\Multithreading.dll
+D:\.NetTrainings\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.sourcelink.json
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.dll
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+D:\.NetTrainings\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll

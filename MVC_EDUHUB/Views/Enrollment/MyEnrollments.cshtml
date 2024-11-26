@@ -1,0 +1,60 @@
+@model IEnumerable<MVC_EDUHUB.ViewModel.StudentEnrollmentViewModel>
+
+@{
+    ViewData["Title"] = "List";
+    Layout="~/Views/Shared/_LayoutStudent.cshtml";
+}
+
+<h1>My Enrollments</h1>
+
+@if (Model.Any())
+{
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>
+                @Html.DisplayNameFor(model => model.EnrollmentId)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            @* <th>Actions</th> *@
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentId)
+            </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            @* <td>
+                @Html.ActionLink("Details", "Details", new { id=item.EnrollmentId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.EnrollmentId })
+            </td> *@
+        </tr>
+    }
+    </tbody>
+</table>
+}
+else
+{
+    <div class="alert alert-info" role="alert">
+        There are currently no enrollments.
+        <a asp-controller="Enrollment" asp-action="Create"> Enroll</a>
+    </div>
+}

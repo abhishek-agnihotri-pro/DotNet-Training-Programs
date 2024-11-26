@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllFile26AUG", "DllFile26AU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduHub", "EduHub\EduHub.csproj", "{940415B2-490C-424D-949C-E47E20368F1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{07E49303-E9EF-4CED-B4BF-D29D8AC75A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_ImageUpload", "MVC_ImageUpload\MVC_ImageUpload.csproj", "{C29F4797-74AF-4E5F-98FC-040A9C1EF99C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{940415B2-490C-424D-949C-E47E20368F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940415B2-490C-424D-949C-E47E20368F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940415B2-490C-424D-949C-E47E20368F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E49303-E9EF-4CED-B4BF-D29D8AC75A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E49303-E9EF-4CED-B4BF-D29D8AC75A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E49303-E9EF-4CED-B4BF-D29D8AC75A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E49303-E9EF-4CED-B4BF-D29D8AC75A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29F4797-74AF-4E5F-98FC-040A9C1EF99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29F4797-74AF-4E5F-98FC-040A9C1EF99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29F4797-74AF-4E5F-98FC-040A9C1EF99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29F4797-74AF-4E5F-98FC-040A9C1EF99C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

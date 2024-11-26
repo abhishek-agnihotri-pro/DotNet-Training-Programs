@@ -1,0 +1,132 @@
+@model MVC_EDUHUB.Models.User;
+@{
+    ViewData["Title"] = "Educator Section";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body text-center">
+                    @{
+                        var path = TempData["ProfileImageEducator"];
+                        TempData.Keep("ProfileImageEducator");
+                    }
+                    @if(!string.IsNullOrEmpty(Model.ProfileImage)){
+
+                    <img src="~/@path" alt="Student Profile Picture" class="rounded-circle img-fluid mb-3"
+                        style="width: 150px; height: 150px; object-fit: cover;">
+                    }
+                    <h2 class="card-title">
+                        @Model.UserName
+                    </h2>
+                    <p class="text-muted">Educator ID: @Model.UserId</p>
+                 
+                    @* <button class="btn btn-primary mt-3">Edit Profile</button> *@
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Educator Information</h3>
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <h6 class="mb-0">UserName</h6>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            @Model.UserName
+
+                        </div>
+                    </div>
+                    <hr>
+                    @if (!string.IsNullOrEmpty(Model.FullName))
+                    {
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Full Name</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.FullName
+                            </div>
+                        </div>
+                    <hr>
+                    }
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <h6 class="mb-0">Email</h6>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            @Model.Email
+                        </div>
+                    </div>
+                
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <h6 class="mb-0">Phone</h6>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            <span> +91 - </span> @Model.Mobile_Number
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @* <div class="card mt-3">
+                <div class="card-body">
+                    <h3 class="card-title">Current Courses</h3>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Advanced Algorithms
+                            <span class="badge bg-primary rounded-pill">A-</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Database Systems
+                            <span class="badge bg-primary rounded-pill">B+</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Web Development
+                            <span class="badge bg-primary rounded-pill">A</span>
+                        </li>
+                    </ul>
+                </div>
+            </div> *@
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .card {
+        border: none;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    }
+
+    .card-title {
+        color: #2c3e50;
+    }
+
+    .btn-primary {
+        background-color: #3498db;
+        border-color: #3498db;
+    }
+
+    .btn-primary:hover {
+        background-color: #2980b9;
+        border-color: #2980b9;
+    }
+
+    .text-secondary {
+        color: #7f8c8d !important;
+    }
+
+    .badge {
+        font-weight: 500;
+    }
+</style>

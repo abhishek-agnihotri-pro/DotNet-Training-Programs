@@ -1,0 +1,59 @@
+@model IEnumerable<MVC_Consuming_Flight.Model.Flight>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Start)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Start_time)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination_time)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Start)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Start_time)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination_time)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.FlightId }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.FlightId  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.FlightId  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

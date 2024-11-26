@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F34A28-6A88-41AB-8B96-9A94A42CD62D}|AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj|d:\\.nettrainings\\blazor learning\\assignmentblazor\\assignmentblazor\\assignmentblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F34A28-6A88-41AB-8B96-9A94A42CD62D}|AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj|solutionrelative:assignmentblazor\\assignmentblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F34A28-6A88-41AB-8B96-9A94A42CD62D}|AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj|d:\\.nettrainings\\blazor learning\\assignmentblazor\\assignmentblazor\\assignmentblazor.client\\assignmentblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23F34A28-6A88-41AB-8B96-9A94A42CD62D}|AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj|solutionrelative:assignmentblazor\\assignmentblazor.client\\assignmentblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentBlazor.Client",
+              "DocumentMoniker": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj",
+              "RelativeDocumentMoniker": "AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj",
+              "ToolTip": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj",
+              "RelativeToolTip": "AssignmentBlazor\\AssignmentBlazor.Client\\AssignmentBlazor.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T05:43:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentBlazor\\AssignmentBlazor.Client\\Program.cs",
+              "ToolTip": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\Program.cs*",
+              "RelativeToolTip": "AssignmentBlazor\\AssignmentBlazor.Client\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:41:13.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\obj\\Debug\\net8.0\\compressed\\7lybi93k7x.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\Blazor Learning\\AssignmentBlazor\\AssignmentBlazor\\AssignmentBlazor.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssignmentBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AssignmentBlazor.Client.props",
+      "PackagePath": "build\\AssignmentBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AssignmentBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\AssignmentBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AssignmentBlazor.Client.props",
+      "PackagePath": "buildTransitive\\AssignmentBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

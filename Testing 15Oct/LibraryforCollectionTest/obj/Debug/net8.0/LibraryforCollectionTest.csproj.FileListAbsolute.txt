@@ -1,0 +1,15 @@
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.AssemblyInfoInputs.cache
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.AssemblyInfo.cs
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.sourcelink.json
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\bin\Debug\net8.0\LibraryforCollectionTest.exe
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\bin\Debug\net8.0\LibraryforCollectionTest.deps.json
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\bin\Debug\net8.0\LibraryforCollectionTest.runtimeconfig.json
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\bin\Debug\net8.0\LibraryforCollectionTest.dll
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\bin\Debug\net8.0\LibraryforCollectionTest.pdb
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.dll
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\refint\LibraryforCollectionTest.dll
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.pdb
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\LibraryforCollectionTest.genruntimeconfig.cache
+D:\.NetTrainings\Testing 15Oct\LibraryforCollectionTest\obj\Debug\net8.0\ref\LibraryforCollectionTest.dll

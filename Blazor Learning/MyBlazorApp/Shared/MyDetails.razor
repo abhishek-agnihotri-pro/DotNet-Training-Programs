@@ -1,0 +1,27 @@
+<div class="container">
+    <p>Name : @Name</p>
+    <p>Age : @Age</p>
+    <button @onclick="HandleIncrementClick">Increment Age</button>
+    <button @onclick="HandleDecrementClick">Decrement Age</button>
+   
+    <p>Title : @Title</p>
+    <p>Company : @Company</p>
+</div>
+
+@code{
+    [Parameter]
+    public string? Name { get; set; }
+    [Parameter]
+    public int Age { get; set; }
+    [Parameter]
+    public string? Title { get; set; }
+    [Parameter]
+    public string? Company { get; set; }
+
+    private void HandleIncrementClick(){
+        Age++;
+    }
+    private void HandleDecrementClick(){
+        Age--;
+    }
+}

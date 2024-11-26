@@ -1,0 +1,12 @@
+D:\.NetTrainings\Testing\Calculator_DLL\bin\Debug\net8.0\Calculator_DLL.deps.json
+D:\.NetTrainings\Testing\Calculator_DLL\bin\Debug\net8.0\Calculator_DLL.dll
+D:\.NetTrainings\Testing\Calculator_DLL\bin\Debug\net8.0\Calculator_DLL.pdb
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.AssemblyInfoInputs.cache
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.AssemblyInfo.cs
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.sourcelink.json
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.dll
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\refint\Calculator_DLL.dll
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\Calculator_DLL.pdb
+D:\.NetTrainings\Testing\Calculator_DLL\obj\Debug\net8.0\ref\Calculator_DLL.dll

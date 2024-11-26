@@ -1,0 +1,69 @@
+@model MVC_EDUHUB.Models.Course
+
+@{
+    ViewData["Title"] = "Add Course";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+<h1>Add Course</h1>
+
+@* <h4>Course</h4> *@
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group d-none">
+                <label asp-for="courseId" class="control-label"></label>
+                <input asp-for="courseId" class="form-control" disabled />
+                <span asp-validation-for="courseId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="title" class="control-label"></label>
+                <input asp-for="title" class="form-control" />
+                <span asp-validation-for="title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="description" class="control-label"></label>
+                <input asp-for="description" class="form-control" />
+                <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="courseStartDate" class="control-label"></label>
+                <input asp-for="courseStartDate" class="form-control" />
+                <span asp-validation-for="courseStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="courseEndDate" class="control-label"></label>
+                <input asp-for="courseEndDate" class="form-control" />
+                <span asp-validation-for="courseEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="category" class="control-label"></label>
+                <select asp-for="category" class="form-control" asp-items="@ViewBag.category">
+                    <option value="">Select Category</option>
+                </select>
+                <span asp-validation-for="category" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="level" class="control-label"></label>
+                <select asp-for="level" class="form-control" asp-items="@ViewBag.level">
+                    <option value="">Select Level</option>
+                </select>
+                <span asp-validation-for="level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ViewMyCourses">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

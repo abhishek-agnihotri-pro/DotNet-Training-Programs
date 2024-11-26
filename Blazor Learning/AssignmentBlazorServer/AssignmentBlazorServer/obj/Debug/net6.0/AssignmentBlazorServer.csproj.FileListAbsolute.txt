@@ -1,0 +1,8 @@
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.AssemblyInfoInputs.cache
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.AssemblyInfo.cs
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.csproj.CoreCompileInputs.cache
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.MvcApplicationPartsAssemblyInfo.cache
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.RazorAssemblyInfo.cache
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.RazorAssemblyInfo.cs
+D:\.NetTrainings\Blazor Learning\AssignmentBlazorServer\AssignmentBlazorServer\obj\Debug\net6.0\AssignmentBlazorServer.sourcelink.json

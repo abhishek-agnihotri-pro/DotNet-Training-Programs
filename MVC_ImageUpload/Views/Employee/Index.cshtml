@@ -1,0 +1,28 @@
+@model IEnumerable<MVC_ImageUpload.Models.Employee>
+
+<h2>Employees</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>Date of Joining</th>
+            <th>Department ID</th>
+            <th>Gender</th>
+            <th>Photo Path</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.Name</td>
+                <td>@employee.Salary</td>
+                <td>@employee.DOJ.ToShortDateString()</td>
+                <td>@employee.deptId</td>
+                <td>@employee.Gender</td>
+                <td>@employee.Photopath</td>
+            </tr>
+        }
+    </tbody>
+</table>
