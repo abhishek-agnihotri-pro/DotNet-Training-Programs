@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_Consuming_Flight.props" />
+</Project>

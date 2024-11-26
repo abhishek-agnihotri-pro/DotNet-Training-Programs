@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hStN4OgmVJGTZhwG02jpJCaXO35OJBgEMuP2YWeAX+A=",
+  "Source": "WebAPI_Flight",
+  "BasePath": "_content/WebAPI_Flight",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

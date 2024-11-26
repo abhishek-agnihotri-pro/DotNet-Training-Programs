@@ -1,0 +1,41 @@
+@model IEnumerable<MVC_PartialViewDemo.Models.Employee>
+ 
+@{
+    ViewData["Title"] = "View";
+}
+ 
+<h1>View</h1>
+ 
+<table class="table">
+<thead>
+<tr>
+<th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+</th>
+<th>
+                @Html.DisplayNameFor(model => model.EmployeeSalary)
+</th>
+
+
+<th></th>
+</tr>
+</thead>
+<tbody>
+@foreach (var item in Model) {
+<tr>
+<td>
+                @Html.DisplayFor(modelItem => item.EmployeeName)
+</td>
+<td>
+                @Html.DisplayFor(modelItem => item.EmployeeSalary)
+</td>
+
+</tr>
+}
+</tbody>
+</table>
+
+has context menu
+
+
+has context menu

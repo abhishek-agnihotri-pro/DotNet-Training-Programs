@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C++mzlG93FpW7iT0RdKT2Bzdk8QZpHeME8Je2y54xys=",
+  "Source": "JWT_Token_WebAPI",
+  "BasePath": "_content/JWT_Token_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

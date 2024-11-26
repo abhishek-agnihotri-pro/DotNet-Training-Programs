@@ -1,0 +1,78 @@
+@model IEnumerable<MVC_EDUHUB.ViewModel.MyEnquiryViewModel>
+
+@{
+    ViewData["Title"] = "Enquiries List";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+<div class="container-fluid mt-4">
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">@Model.FirstOrDefault()?.CourseName</h2>
+        </div>
+        <div class="card-body">
+            <h4 class="card-title mb-4">Enquiries</h4>
+        </div>
+    </div>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">@item.Subject</h5>
+                        <span class="badge badge-@(item.Status == "Pending" ? "warning" : "success")">@item.Status</span>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="card-subtitle mb-2 text-muted">From: @item.UserName</h6>
+                        <p class="card-text">@item.Message</p>
+                        <p class="card-text"><small class="text-muted">Enquiry Date: @item.EnquiryDate.ToShortDateString()</small></p>
+                        @if (!string.IsNullOrEmpty(item.Response))
+                        {
+                            <hr>
+                            <h6 class="card-subtitle mb-2 text-muted">Response:</h6>
+                            <p class="card-text">@item.Response</p>
+                        }
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <div class="btn-group" role="group">
+                            <a asp-action="Edit" asp-route-id="@item.EnquiryId" class="btn btn-sm btn-outline-primary">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.EnquiryId" class="btn btn-sm btn-outline-info">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.EnquiryId" class="btn btn-sm btn-outline-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+    .card {
+        border: none;
+        border-radius: 10px;
+        transition: all 0.3s ease;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+    }
+    .card-header {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .badge {
+        font-size: 0.9em;
+    }
+    .btn-group .btn {
+        margin-right: 5px;
+    }
+    .card-footer {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+</style>

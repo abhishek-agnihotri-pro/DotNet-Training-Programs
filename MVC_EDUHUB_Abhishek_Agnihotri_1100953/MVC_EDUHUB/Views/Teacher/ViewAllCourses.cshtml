@@ -1,0 +1,97 @@
+@model IEnumerable<MVC_EDUHUB.Models.Course>
+
+@{
+    ViewData["Title"] = "List";
+}
+@{
+    ViewData["Title"] = "Educator Section";
+    if (ViewBag.UserRole == "Student")
+    {
+        Layout = "~/Views/Shared/_LayoutStudent.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+    }
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - All Courses Available in EduHub</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .course-card {
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            border: none;
+            border-radius: 15px;
+        }
+        .course-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .card-header {
+            background-color: #007bff;
+            color: white;
+            border-top-left-radius: 15px !important;
+            border-top-right-radius: 15px !important;
+        }
+        .btn-custom {
+            transition: all 0.3s ease-in-out;
+        }
+        .btn-custom:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+        }
+        .course-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-5">All Courses Available in EduHub</h1>
+        
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 course-card">
+                        <div class="card-header text-center py-3">
+                            <i class="fas fa-graduation-cap course-icon"></i>
+                            <h5 class="card-title mb-0">@Html.DisplayFor(modelItem => item.title)</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">@Html.DisplayFor(modelItem => item.description)</p>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><strong>Course ID:</strong> @Html.DisplayFor(modelItem => item.courseId)</li>
+                                <li class="list-group-item"><strong>Start Date:</strong> @Html.DisplayFor(modelItem => item.courseStartDate)</li>
+                                <li class="list-group-item"><strong>End Date:</strong> @Html.DisplayFor(modelItem => item.courseEndDate)</li>
+                                <li class="list-group-item"><strong>Category:</strong> @Html.DisplayFor(modelItem => item.category)</li>
+                                <li class="list-group-item"><strong>Level:</strong> @Html.DisplayFor(modelItem => item.level)</li>
+                            </ul>
+                        </div>
+                        @if (ViewBag.UserRole == "Student"){
+                                   
+                        
+                        <div class="card-footer bg-white border-top-0 text-center">
+                            <a asp-action="Details" asp-controller="Teacher" asp-route-id="@item.courseId"class="btn btn-primary btn-custom me-2">Details</a>
+
+                            <a asp-action="Create" asp-controller="Enrollment" class="btn btn-outline-primary btn-custom">Enroll</a>
+                        </div>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+step 1 -> add Nuget Packages
+ 
+1Microsoft.EntityFrameworkCore
+2Microsoft.EntityFrameworkCore.Design
+3Microsoft.EntityFrameworkCore.SqlServer
+
+(
+    dotnet tool install --global dotnet-ef
+    dotnet add package Microsoft.EntityFrameworkCore --version 5.0.17
+    dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.17
+    dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.17
+)
+
+
+step 2 : connection string:In Appsettings.Json
+"ConnectionStrings": {
+    "MyConStr": "server=YISC1601949LT\SQLEXPRESS;database=YashDB;Trusted_Connection=True;"
+  }
+  
+step 3 : create AppDbContext Class in Models Folder
+

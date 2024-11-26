@@ -7,6 +7,7 @@ class Program
         Console.Write("Press 1 to start as Student or Press 2 for Teacher : ");
         int navigate = Convert.ToInt32(Console.ReadLine());
         
+        //password insertion technique is mentioned in git for test folder in desktop
         switch(navigate){
             case 1:
                 StudentAction.StudnetSequence();

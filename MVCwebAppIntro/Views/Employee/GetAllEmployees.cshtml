@@ -1,0 +1,10 @@
+<div class="container">
+    <h3>Employees Details</h3>
+    <ol>
+        @foreach (var emp in ViewBag.employees as IList<Employee>)
+        {
+            <li>EmpID : @emp.EmpId, Name : @emp.Name, Salary : @emp.Salary</li>
+        }
+
+    </ol>
+</div>

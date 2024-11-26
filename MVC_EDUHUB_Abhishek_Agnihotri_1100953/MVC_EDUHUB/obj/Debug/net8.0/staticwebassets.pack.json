@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_EDUHUB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC_EDUHUB.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\4d5897eb-e3b4-4763-a256-ba0460dcf066_20240724_201343new.jpg",
+      "PackagePath": "staticwebassets\\4d5897eb-e3b4-4763-a256-ba0460dcf066_20240724_201343new.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\5b553e8b-860b-4c57-870d-0ec987119a39_20240724_201343new.jpg",
+      "PackagePath": "staticwebassets\\5b553e8b-860b-4c57-870d-0ec987119a39_20240724_201343new.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\6cab2fc2-f926-487c-81fb-e59177da4e9b_image.png",
+      "PackagePath": "staticwebassets\\6cab2fc2-f926-487c-81fb-e59177da4e9b_image.png"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\abc967f5-15b0-42ec-b60c-88a724bf56b4_20240724_201343new.jpg",
+      "PackagePath": "staticwebassets\\abc967f5-15b0-42ec-b60c-88a724bf56b4_20240724_201343new.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\bf5a70ad-1f5c-479d-8da0-39557d0d229a_WIN_20240617_15_35_38_Pro.jpg",
+      "PackagePath": "staticwebassets\\bf5a70ad-1f5c-479d-8da0-39557d0d229a_WIN_20240617_15_35_38_Pro.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\d273b308-8cbd-4ead-89c5-9908150a4684_20240724_201343new.jpg",
+      "PackagePath": "staticwebassets\\d273b308-8cbd-4ead-89c5-9908150a4684_20240724_201343new.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\eduhub.svg",
+      "PackagePath": "staticwebassets\\eduhub.svg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\f0dda773-ac06-4b57-938d-7ecc69a6e728_WIN_20240617_15_35_38_Pro.jpg",
+      "PackagePath": "staticwebassets\\f0dda773-ac06-4b57-938d-7ecc69a6e728_WIN_20240617_15_35_38_Pro.jpg"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.NetTrainings\\MVC_EDUHUB_Abhishek_Agnihotri_1100953\\MVC_EDUHUB\\wwwroot\\pic.jpg",
+      "PackagePath": "staticwebassets\\pic.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC_EDUHUB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC_EDUHUB.props",
+      "PackagePath": "build\\MVC_EDUHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_EDUHUB.props",
+      "PackagePath": "buildMultiTargeting\\MVC_EDUHUB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC_EDUHUB.props",
+      "PackagePath": "buildTransitive\\MVC_EDUHUB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

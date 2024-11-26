@@ -1,0 +1,79 @@
+@model MVC_EDUHUB.Models.Course
+
+@{
+    ViewData["Title"] = "Course Details";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h1 class="display-4">@Model.title</h1>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-8">
+                    <h4 class="text-muted mb-4">Course Details</h4>
+                    <dl class="row">
+                        <dt class="col-sm-4">Course ID</dt>
+                        <dd class="col-sm-8">@Model.courseId</dd>
+
+                        <dt class="col-sm-4">Description</dt>
+                        <dd class="col-sm-8">@Model.description</dd>
+
+                        <dt class="col-sm-4">Start Date</dt>
+                        <dd class="col-sm-8">@Model.courseStartDate.ToShortDateString()</dd>
+
+                        <dt class="col-sm-4">End Date</dt>
+                        <dd class="col-sm-8">@Model.courseEndDate.ToShortDateString()</dd>
+
+                        <dt class="col-sm-4">Category</dt>
+                        <dd class="col-sm-8">@Model.category</dd>
+
+                        <dt class="col-sm-4">Level</dt>
+                        <dd class="col-sm-8">@Model.level</dd>
+                    </dl>
+                </div>
+                <div class="col-md-4">
+                    <div class="card bg-light">
+                        <div class="card-body">
+                            <h5 class="card-title">Quick Info</h5>
+                            <p class="card-text">
+                                <strong>Duration:</strong> @((Model.courseEndDate - Model.courseStartDate).TotalDays) days<br>
+                                <strong>Educator ID:</strong> @Model.userId
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @* <div class="card-footer">
+            <a asp-action="Edit" asp-route-id="@Model.courseId" class="btn btn-primary">Edit Course</a>
+            <a asp-action="ViewMyCourses" class="btn btn-secondary">Back to List</a>
+        </div> *@
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+    .card {
+        border: none;
+        border-radius: 15px;
+    }
+    .card-header {
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .display-4 {
+        font-size: 2.5rem;
+    }
+    dt {
+        font-weight: 600;
+        color: #495057;
+    }
+    dd {
+        margin-bottom: 0.5rem;
+    }
+</style>

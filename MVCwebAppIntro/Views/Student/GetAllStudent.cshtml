@@ -1,0 +1,40 @@
+@{
+
+}
+@model IEnumerable<MVCwebAppIntro.Models.Student>
+
+<div>
+    <h2>
+        All Students List
+    </h2>
+
+    <h5>
+        <ol>
+            @* @foreach (var stu in ViewData["students"] as IList<Student>)
+            {
+            <li>ID : @stu.ID, Name : @stu.Name, Marks : @stu.Marks</li>
+            } *@
+
+            @{
+                var x = Model.Count();
+            }
+
+            @* @foreach (var stu in ViewBag.students as IList<Student>) *@
+            @foreach (var stu in Model)
+            {
+                <li>ID : @stu.ID, Name : @stu.Name, Marks : @stu.Marks</li>
+            }
+            <div>Total Students : @x</div>
+
+        </ol>
+
+        <h4>1 - 10 </h4>
+        <ul>
+            @for (var i = 1; i <= 10; i++)
+            {
+                <li>@i</li>
+            }
+        </ul>
+        </h45>
+
+</div>

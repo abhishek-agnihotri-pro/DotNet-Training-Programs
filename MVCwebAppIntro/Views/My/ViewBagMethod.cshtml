@@ -1,0 +1,15 @@
+<h1>
+    @ViewBag.company
+    @ViewBag.today
+
+</h1>
+<h1>List of Items</h1>
+<h3>
+    <ul>
+        @foreach (var f in ViewBag.fruits)
+        {
+            <li>@f</li>
+        }
+
+    </ul>
+</h3>

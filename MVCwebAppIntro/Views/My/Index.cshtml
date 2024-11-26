@@ -1,0 +1,13 @@
+<h1>From My Controller Jai Shree Ram @ViewData["name"] </h1>
+<h3>Contact : @ViewData["contact"]</h3>
+
+<h2>Razor Loop</h2>
+<h3>
+    <ul>
+        @foreach (var f in ViewData["fruits"] as IList<string>)
+        {
+            <li>@f</li>
+        }
+
+    </ul>
+</h3>

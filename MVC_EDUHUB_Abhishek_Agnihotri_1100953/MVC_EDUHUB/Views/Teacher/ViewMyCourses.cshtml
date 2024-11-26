@@ -1,0 +1,98 @@
+@model IEnumerable<MVC_EDUHUB.ViewModel.MyCourseViewModel>
+
+@{
+    ViewData["Title"] = "List";
+    ViewData["Title"] = "Educator Section";
+    Layout = "~/Views/Shared/_LayoutEducator.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Educator Section</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .course-card {
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .course-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-custom {
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn-custom:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">My Courses</h1>
+        @if (Model.Any())
+        {
+            <a href="@Url.Action("Create", "Teacher")" class="btn btn-primary mb-4">Add New Course</a>
+
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                @foreach (var item in Model)
+                {
+                    <div class="col">
+                        <div class="card h-100 course-card">
+                            <div class="card-body">
+                                <h5 class="card-title">@Html.DisplayFor(modelItem => item.CourseName)</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.title)</h6>
+                                <p class="card-text">@Html.DisplayFor(modelItem => item.description)</p>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item"><strong>Start Date:</strong> @Html.DisplayFor(modelItem =>
+                                item.courseStartDate)</li>
+                                    <li class="list-group-item"><strong>End Date:</strong> @Html.DisplayFor(modelItem =>
+                                item.courseEndDate)</li>
+                                    <li class="list-group-item"><strong>Educator:</strong> @Html.DisplayFor(modelItem =>
+                                item.UserName)</li>
+                                    <li class="list-group-item"><strong>Category:</strong> @Html.DisplayFor(modelItem =>
+                                item.category)</li>
+                                    <li class="list-group-item"><strong>Level:</strong> @Html.DisplayFor(modelItem =>
+                                item.level)</li>
+                                </ul>
+                            </div>
+                            <div class="card-footer">
+                                <div class="btn-group" role="group">
+                                    <a href="@Url.Action("Edit", new { id = item.courseId })"
+                                        class="btn btn-sm btn-outline-primary btn-custom">Edit</a>
+                                    <a href="@Url.Action("Details", new { id = item.courseId })"
+                                        class="btn btn-sm btn-outline-info btn-custom">Details</a>
+                                    <a href="@Url.Action("Delete", new { id = item.courseId })"
+                                        class="btn btn-sm btn-outline-danger btn-custom">Delete</a>
+                                </div>
+                                <div class="mt-2">
+                                    <a asp-action="CourseMaterial" asp-controller="Material" asp-route-id="@item.courseId"
+                                        class="btn btn-sm btn-outline-secondary btn-custom">Course Materials</a>
+                                    <a asp-action="GetEnquiries" asp-controller="Enquiry" asp-route-id="@item.courseId"
+                                        class="btn btn-sm btn-outline-secondary btn-custom">Course Enquiries</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger" role="alert">
+                It is not you it is us, Please login Again
+            </div>
+        }
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
